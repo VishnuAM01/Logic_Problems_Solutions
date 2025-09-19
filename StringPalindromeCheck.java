@@ -1,3 +1,4 @@
+package Logic_Problems_Solutions;
 import java.util.*;
 public class StringPalindromeCheck {
 
