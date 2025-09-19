@@ -1,3 +1,4 @@
+package Logic_Problems_Solutions;
 /* Reverse the string*/
 import java.util.*;
 class StringReversing {
