@@ -1,3 +1,4 @@
+package Logic_Problems_Solutions;
 /*
 *Accept a sentence from user and count number of words
 */
