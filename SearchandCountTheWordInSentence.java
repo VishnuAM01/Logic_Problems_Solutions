@@ -1,3 +1,4 @@
+package Logic_Problems_Solutions;
 import java.util.*;
 /*
 *Accept a sentence from user , accept a word from user and count occurrence of that word
