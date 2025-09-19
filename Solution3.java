@@ -1,3 +1,4 @@
+package Logic_Problems_Solutions;
 /*
  *  Accept 10 number in an array. Display all even number at the beginning and all Odd at the end.  
 Use only one loop
