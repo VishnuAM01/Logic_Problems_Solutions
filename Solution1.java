@@ -1,3 +1,4 @@
+package Logic_Problems_Solutions;
 /*
  * Segregate positive and negative integers in linear time   
 Given an array of positive and negative integers,   
