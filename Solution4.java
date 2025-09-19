@@ -1,3 +1,4 @@
+package Logic_Problems_Solutions;
 /*
  * Accept 5 number in an array and sort it. Accept a number from user and check if it is there in an  
 array or not, please  use binary search.
