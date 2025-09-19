@@ -1,3 +1,4 @@
+package Logic_Problems_Solutions;
 /*
  *    Accept 5 number in an array, accept a number from user and check if given number is there in  
 an array or not
